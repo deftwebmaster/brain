@@ -114,6 +114,13 @@
       <description>A weaponized stack for crushing deadlines and leaving no survivors. This one doesn’t flinch.</description>
     </item>
     <item>
+      <title>About The Scientist</title>
+      <link>https://brainblendz.com/about/the-scientist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brainblendz.com/about/the-scientist/</guid>
+      <description>Meet Synapzr — the cortex-cracking, molecule-meddling mind behind BrainBlendz.</description>
+    </item>
+    <item>
       <title>ALCAR: Mitochondrial Fuel for Mental Clarity</title>
       <link>https://brainblendz.com/glossary/alcar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -142,6 +149,13 @@
       <description>An ancient adaptogen turned modern-day stress assassin — balances cortisol, boosts resilience, and lets you fight chaos with calm.</description>
     </item>
     <item>
+      <title>Lab Manifesto</title>
+      <link>https://brainblendz.com/about/philosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brainblendz.com/about/philosophy/</guid>
+      <description>Short, sharp principles from the lab bench — where nootropics meet neurorebellion.</description>
+    </item>
+    <item>
       <title>Modafinil: The Limitless Wakefulness Weapon</title>
       <link>https://brainblendz.com/glossary/modafinil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -154,20 +168,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://brainblendz.com/glossary/phenylpiracetam/</guid>
       <description>A synthetic nootropic forged in Soviet labs — cranks up cognition, stamina, and mental resilience with zero mercy.</description>
-    </item>
-    <item>
-      <title>The BrainBlendz Manifesto</title>
-      <link>https://brainblendz.com/about/philosophy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brainblendz.com/about/philosophy/</guid>
-      <description>Short, sharp principles from the lab bench — where nootropics meet neurorebellion.</description>
-    </item>
-    <item>
-      <title>The Scientist</title>
-      <link>https://brainblendz.com/about/the-scientist/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brainblendz.com/about/the-scientist/</guid>
-      <description>Meet Synapzr — the cortex-cracking, molecule-meddling mind behind BrainBlendz.</description>
     </item>
   </channel>
 </rss>
