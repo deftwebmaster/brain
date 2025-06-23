@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Motivation on BrainBlendz</title>
-    <link>http://localhost:1313/tags/motivation/</link>
+    <link>https://brainblendz.com/tags/motivation/</link>
     <description>Recent content in Motivation on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 15:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Dopamine See-Saw: Why Your Brain’s Reward System Is Wrecking Your Workflow</title>
-      <link>http://localhost:1313/journal/dopamine-see-saw/</link>
+      <link>https://brainblendz.com/journal/dopamine-see-saw/</link>
       <pubDate>Sun, 22 Jun 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/dopamine-see-saw/</guid>
+      <guid>https://brainblendz.com/journal/dopamine-see-saw/</guid>
       <description>Discover how dopamine dysregulation sabotages your focus, fuels burnout, and how to restore balance using smart strategies and nootropic stacks.</description>
     </item>
   </channel>

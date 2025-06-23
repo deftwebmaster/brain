@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zero Mercy Mode on BrainBlendz</title>
-    <link>http://localhost:1313/tags/zero-mercy-mode/</link>
+    <link>https://brainblendz.com/tags/zero-mercy-mode/</link>
     <description>Recent content in Zero Mercy Mode on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 18:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/zero-mercy-mode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/zero-mercy-mode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zero Mercy Mode: Inside the Stack That Doesn’t Flinch</title>
-      <link>http://localhost:1313/journal/zero-mercy-mode/</link>
+      <link>https://brainblendz.com/journal/zero-mercy-mode/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/zero-mercy-mode/</guid>
+      <guid>https://brainblendz.com/journal/zero-mercy-mode/</guid>
       <description>A no-BS breakdown of the most aggressive nootropic stack in the BrainBlendz lab — for when you need to go full mental juggernaut.</description>
     </item>
   </channel>

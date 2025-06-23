@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Brainstorming on BrainBlendz</title>
-    <link>http://localhost:1313/tags/brainstorming/</link>
+    <link>https://brainblendz.com/tags/brainstorming/</link>
     <description>Recent content in Brainstorming on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/brainstorming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/brainstorming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Synapse Storm</title>
-      <link>http://localhost:1313/stacks/synapse-storm/</link>
+      <link>https://brainblendz.com/stacks/synapse-storm/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/stacks/synapse-storm/</guid>
+      <guid>https://brainblendz.com/stacks/synapse-storm/</guid>
       <description>A creative chaos stack engineered for your most explosive ideas. Channel it wisely.</description>
     </item>
   </channel>

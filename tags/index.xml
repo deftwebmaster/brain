@@ -2,437 +2,437 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on BrainBlendz</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://brainblendz.com/tags/</link>
     <description>Recent content in Tags on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 22:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biohacking</title>
-      <link>http://localhost:1313/tags/biohacking/</link>
+      <link>https://brainblendz.com/tags/biohacking/</link>
       <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/biohacking/</guid>
+      <guid>https://brainblendz.com/tags/biohacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Brain Health</title>
-      <link>http://localhost:1313/tags/brain-health/</link>
+      <link>https://brainblendz.com/tags/brain-health/</link>
       <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brain-health/</guid>
+      <guid>https://brainblendz.com/tags/brain-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Cognitive Enhancement</title>
-      <link>http://localhost:1313/tags/cognitive-enhancement/</link>
+      <link>https://brainblendz.com/tags/cognitive-enhancement/</link>
       <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cognitive-enhancement/</guid>
+      <guid>https://brainblendz.com/tags/cognitive-enhancement/</guid>
       <description></description>
     </item>
     <item>
       <title>Nootropics</title>
-      <link>http://localhost:1313/tags/nootropics/</link>
+      <link>https://brainblendz.com/tags/nootropics/</link>
       <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nootropics/</guid>
+      <guid>https://brainblendz.com/tags/nootropics/</guid>
       <description></description>
     </item>
     <item>
       <title>Stacks</title>
-      <link>http://localhost:1313/tags/stacks/</link>
+      <link>https://brainblendz.com/tags/stacks/</link>
       <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stacks/</guid>
+      <guid>https://brainblendz.com/tags/stacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Brain Hacking</title>
-      <link>http://localhost:1313/tags/brain-hacking/</link>
+      <link>https://brainblendz.com/tags/brain-hacking/</link>
       <pubDate>Sun, 22 Jun 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brain-hacking/</guid>
+      <guid>https://brainblendz.com/tags/brain-hacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Work</title>
-      <link>http://localhost:1313/tags/deep-work/</link>
+      <link>https://brainblendz.com/tags/deep-work/</link>
       <pubDate>Sun, 22 Jun 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deep-work/</guid>
+      <guid>https://brainblendz.com/tags/deep-work/</guid>
       <description></description>
     </item>
     <item>
       <title>Focus</title>
-      <link>http://localhost:1313/tags/focus/</link>
+      <link>https://brainblendz.com/tags/focus/</link>
       <pubDate>Sun, 22 Jun 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/focus/</guid>
+      <guid>https://brainblendz.com/tags/focus/</guid>
       <description></description>
     </item>
     <item>
       <title>Adaptogens</title>
-      <link>http://localhost:1313/tags/adaptogens/</link>
+      <link>https://brainblendz.com/tags/adaptogens/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/adaptogens/</guid>
+      <guid>https://brainblendz.com/tags/adaptogens/</guid>
       <description></description>
     </item>
     <item>
       <title>Ashwagandha</title>
-      <link>http://localhost:1313/tags/ashwagandha/</link>
+      <link>https://brainblendz.com/tags/ashwagandha/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ashwagandha/</guid>
+      <guid>https://brainblendz.com/tags/ashwagandha/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/tags/productivity/</link>
+      <link>https://brainblendz.com/tags/productivity/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/productivity/</guid>
+      <guid>https://brainblendz.com/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Stress</title>
-      <link>http://localhost:1313/tags/stress/</link>
+      <link>https://brainblendz.com/tags/stress/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stress/</guid>
+      <guid>https://brainblendz.com/tags/stress/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero Mercy Mode</title>
-      <link>http://localhost:1313/tags/zero-mercy-mode/</link>
+      <link>https://brainblendz.com/tags/zero-mercy-mode/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zero-mercy-mode/</guid>
+      <guid>https://brainblendz.com/tags/zero-mercy-mode/</guid>
       <description></description>
     </item>
     <item>
       <title>Burnout</title>
-      <link>http://localhost:1313/tags/burnout/</link>
+      <link>https://brainblendz.com/tags/burnout/</link>
       <pubDate>Sun, 22 Jun 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/burnout/</guid>
+      <guid>https://brainblendz.com/tags/burnout/</guid>
       <description></description>
     </item>
     <item>
       <title>Dopamine</title>
-      <link>http://localhost:1313/tags/dopamine/</link>
+      <link>https://brainblendz.com/tags/dopamine/</link>
       <pubDate>Sun, 22 Jun 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dopamine/</guid>
+      <guid>https://brainblendz.com/tags/dopamine/</guid>
       <description></description>
     </item>
     <item>
       <title>Motivation</title>
-      <link>http://localhost:1313/tags/motivation/</link>
+      <link>https://brainblendz.com/tags/motivation/</link>
       <pubDate>Sun, 22 Jun 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/motivation/</guid>
+      <guid>https://brainblendz.com/tags/motivation/</guid>
       <description></description>
     </item>
     <item>
       <title>Neurohacking</title>
-      <link>http://localhost:1313/tags/neurohacking/</link>
+      <link>https://brainblendz.com/tags/neurohacking/</link>
       <pubDate>Sun, 22 Jun 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neurohacking/</guid>
+      <guid>https://brainblendz.com/tags/neurohacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Smart Stacks</title>
-      <link>http://localhost:1313/tags/smart-stacks/</link>
+      <link>https://brainblendz.com/tags/smart-stacks/</link>
       <pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/smart-stacks/</guid>
+      <guid>https://brainblendz.com/tags/smart-stacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Aging</title>
-      <link>http://localhost:1313/tags/aging/</link>
+      <link>https://brainblendz.com/tags/aging/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aging/</guid>
+      <guid>https://brainblendz.com/tags/aging/</guid>
       <description></description>
     </item>
     <item>
       <title>Amino Acid</title>
-      <link>http://localhost:1313/tags/amino-acid/</link>
+      <link>https://brainblendz.com/tags/amino-acid/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/amino-acid/</guid>
+      <guid>https://brainblendz.com/tags/amino-acid/</guid>
       <description></description>
     </item>
     <item>
       <title>Botanical</title>
-      <link>http://localhost:1313/tags/botanical/</link>
+      <link>https://brainblendz.com/tags/botanical/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/botanical/</guid>
+      <guid>https://brainblendz.com/tags/botanical/</guid>
       <description></description>
     </item>
     <item>
       <title>Brain Enhancers</title>
-      <link>http://localhost:1313/tags/brain-enhancers/</link>
+      <link>https://brainblendz.com/tags/brain-enhancers/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brain-enhancers/</guid>
+      <guid>https://brainblendz.com/tags/brain-enhancers/</guid>
       <description></description>
     </item>
     <item>
       <title>Brain Repair</title>
-      <link>http://localhost:1313/tags/brain-repair/</link>
+      <link>https://brainblendz.com/tags/brain-repair/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brain-repair/</guid>
+      <guid>https://brainblendz.com/tags/brain-repair/</guid>
       <description></description>
     </item>
     <item>
       <title>Brainstorming</title>
-      <link>http://localhost:1313/tags/brainstorming/</link>
+      <link>https://brainblendz.com/tags/brainstorming/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brainstorming/</guid>
+      <guid>https://brainblendz.com/tags/brainstorming/</guid>
       <description></description>
     </item>
     <item>
       <title>Calm</title>
-      <link>http://localhost:1313/tags/calm/</link>
+      <link>https://brainblendz.com/tags/calm/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/calm/</guid>
+      <guid>https://brainblendz.com/tags/calm/</guid>
       <description></description>
     </item>
     <item>
       <title>Circulation</title>
-      <link>http://localhost:1313/tags/circulation/</link>
+      <link>https://brainblendz.com/tags/circulation/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/circulation/</guid>
+      <guid>https://brainblendz.com/tags/circulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Clarity</title>
-      <link>http://localhost:1313/tags/clarity/</link>
+      <link>https://brainblendz.com/tags/clarity/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/clarity/</guid>
+      <guid>https://brainblendz.com/tags/clarity/</guid>
       <description></description>
     </item>
     <item>
       <title>Cognition</title>
-      <link>http://localhost:1313/tags/cognition/</link>
+      <link>https://brainblendz.com/tags/cognition/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cognition/</guid>
+      <guid>https://brainblendz.com/tags/cognition/</guid>
       <description></description>
     </item>
     <item>
       <title>Creative Work</title>
-      <link>http://localhost:1313/tags/creative-work/</link>
+      <link>https://brainblendz.com/tags/creative-work/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/creative-work/</guid>
+      <guid>https://brainblendz.com/tags/creative-work/</guid>
       <description></description>
     </item>
     <item>
       <title>Creativity</title>
-      <link>http://localhost:1313/tags/creativity/</link>
+      <link>https://brainblendz.com/tags/creativity/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/creativity/</guid>
+      <guid>https://brainblendz.com/tags/creativity/</guid>
       <description></description>
     </item>
     <item>
       <title>Energy</title>
-      <link>http://localhost:1313/tags/energy/</link>
+      <link>https://brainblendz.com/tags/energy/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/energy/</guid>
+      <guid>https://brainblendz.com/tags/energy/</guid>
       <description></description>
     </item>
     <item>
       <title>Execution</title>
-      <link>http://localhost:1313/tags/execution/</link>
+      <link>https://brainblendz.com/tags/execution/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/execution/</guid>
+      <guid>https://brainblendz.com/tags/execution/</guid>
       <description></description>
     </item>
     <item>
       <title>Formulas</title>
-      <link>http://localhost:1313/tags/formulas/</link>
+      <link>https://brainblendz.com/tags/formulas/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/formulas/</guid>
+      <guid>https://brainblendz.com/tags/formulas/</guid>
       <description></description>
     </item>
     <item>
       <title>Glossary</title>
-      <link>http://localhost:1313/tags/glossary/</link>
+      <link>https://brainblendz.com/tags/glossary/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/glossary/</guid>
+      <guid>https://brainblendz.com/tags/glossary/</guid>
       <description></description>
     </item>
     <item>
       <title>Glutamate</title>
-      <link>http://localhost:1313/tags/glutamate/</link>
+      <link>https://brainblendz.com/tags/glutamate/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/glutamate/</guid>
+      <guid>https://brainblendz.com/tags/glutamate/</guid>
       <description></description>
     </item>
     <item>
       <title>Memory</title>
-      <link>http://localhost:1313/tags/memory/</link>
+      <link>https://brainblendz.com/tags/memory/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/memory/</guid>
+      <guid>https://brainblendz.com/tags/memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Mushroom</title>
-      <link>http://localhost:1313/tags/mushroom/</link>
+      <link>https://brainblendz.com/tags/mushroom/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mushroom/</guid>
+      <guid>https://brainblendz.com/tags/mushroom/</guid>
       <description></description>
     </item>
     <item>
       <title>Neurogenesis</title>
-      <link>http://localhost:1313/tags/neurogenesis/</link>
+      <link>https://brainblendz.com/tags/neurogenesis/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neurogenesis/</guid>
+      <guid>https://brainblendz.com/tags/neurogenesis/</guid>
       <description></description>
     </item>
     <item>
       <title>NGF</title>
-      <link>http://localhost:1313/tags/ngf/</link>
+      <link>https://brainblendz.com/tags/ngf/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ngf/</guid>
+      <guid>https://brainblendz.com/tags/ngf/</guid>
       <description></description>
     </item>
     <item>
       <title>Nootropic Stack</title>
-      <link>http://localhost:1313/tags/nootropic-stack/</link>
+      <link>https://brainblendz.com/tags/nootropic-stack/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nootropic-stack/</guid>
+      <guid>https://brainblendz.com/tags/nootropic-stack/</guid>
       <description></description>
     </item>
     <item>
       <title>Racetam</title>
-      <link>http://localhost:1313/tags/racetam/</link>
+      <link>https://brainblendz.com/tags/racetam/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/racetam/</guid>
+      <guid>https://brainblendz.com/tags/racetam/</guid>
       <description></description>
     </item>
     <item>
       <title>Stimulant-Like</title>
-      <link>http://localhost:1313/tags/stimulant-like/</link>
+      <link>https://brainblendz.com/tags/stimulant-like/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stimulant-like/</guid>
+      <guid>https://brainblendz.com/tags/stimulant-like/</guid>
       <description></description>
     </item>
     <item>
       <title>Work Sprint</title>
-      <link>http://localhost:1313/tags/work-sprint/</link>
+      <link>https://brainblendz.com/tags/work-sprint/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/work-sprint/</guid>
+      <guid>https://brainblendz.com/tags/work-sprint/</guid>
       <description></description>
     </item>
     <item>
       <title>Acetyl-L-Carnitine</title>
-      <link>http://localhost:1313/tags/acetyl-l-carnitine/</link>
+      <link>https://brainblendz.com/tags/acetyl-l-carnitine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/acetyl-l-carnitine/</guid>
+      <guid>https://brainblendz.com/tags/acetyl-l-carnitine/</guid>
       <description></description>
     </item>
     <item>
       <title>ALCAR</title>
-      <link>http://localhost:1313/tags/alcar/</link>
+      <link>https://brainblendz.com/tags/alcar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/alcar/</guid>
+      <guid>https://brainblendz.com/tags/alcar/</guid>
       <description></description>
     </item>
     <item>
       <title>Aniracetam</title>
-      <link>http://localhost:1313/tags/aniracetam/</link>
+      <link>https://brainblendz.com/tags/aniracetam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aniracetam/</guid>
+      <guid>https://brainblendz.com/tags/aniracetam/</guid>
       <description></description>
     </item>
     <item>
       <title>Anxiety</title>
-      <link>http://localhost:1313/tags/anxiety/</link>
+      <link>https://brainblendz.com/tags/anxiety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/anxiety/</guid>
+      <guid>https://brainblendz.com/tags/anxiety/</guid>
       <description></description>
     </item>
     <item>
       <title>Choline</title>
-      <link>http://localhost:1313/tags/choline/</link>
+      <link>https://brainblendz.com/tags/choline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/choline/</guid>
+      <guid>https://brainblendz.com/tags/choline/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethos</title>
-      <link>http://localhost:1313/tags/ethos/</link>
+      <link>https://brainblendz.com/tags/ethos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ethos/</guid>
+      <guid>https://brainblendz.com/tags/ethos/</guid>
       <description></description>
     </item>
     <item>
       <title>Eugeroic</title>
-      <link>http://localhost:1313/tags/eugeroic/</link>
+      <link>https://brainblendz.com/tags/eugeroic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/eugeroic/</guid>
+      <guid>https://brainblendz.com/tags/eugeroic/</guid>
       <description></description>
     </item>
     <item>
       <title>Manifesto</title>
-      <link>http://localhost:1313/tags/manifesto/</link>
+      <link>https://brainblendz.com/tags/manifesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/manifesto/</guid>
+      <guid>https://brainblendz.com/tags/manifesto/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Clarity</title>
-      <link>http://localhost:1313/tags/mental-clarity/</link>
+      <link>https://brainblendz.com/tags/mental-clarity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mental-clarity/</guid>
+      <guid>https://brainblendz.com/tags/mental-clarity/</guid>
       <description></description>
     </item>
     <item>
       <title>Mitochondria</title>
-      <link>http://localhost:1313/tags/mitochondria/</link>
+      <link>https://brainblendz.com/tags/mitochondria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mitochondria/</guid>
+      <guid>https://brainblendz.com/tags/mitochondria/</guid>
       <description></description>
     </item>
     <item>
       <title>Modafinil</title>
-      <link>http://localhost:1313/tags/modafinil/</link>
+      <link>https://brainblendz.com/tags/modafinil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/modafinil/</guid>
+      <guid>https://brainblendz.com/tags/modafinil/</guid>
       <description></description>
     </item>
     <item>
       <title>Mood</title>
-      <link>http://localhost:1313/tags/mood/</link>
+      <link>https://brainblendz.com/tags/mood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mood/</guid>
+      <guid>https://brainblendz.com/tags/mood/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>http://localhost:1313/tags/performance/</link>
+      <link>https://brainblendz.com/tags/performance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/performance/</guid>
+      <guid>https://brainblendz.com/tags/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:1313/tags/philosophy/</link>
+      <link>https://brainblendz.com/tags/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <guid>https://brainblendz.com/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Racetams</title>
-      <link>http://localhost:1313/tags/racetams/</link>
+      <link>https://brainblendz.com/tags/racetams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/racetams/</guid>
+      <guid>https://brainblendz.com/tags/racetams/</guid>
       <description></description>
     </item>
     <item>
       <title>Smart Drugs</title>
-      <link>http://localhost:1313/tags/smart-drugs/</link>
+      <link>https://brainblendz.com/tags/smart-drugs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/smart-drugs/</guid>
+      <guid>https://brainblendz.com/tags/smart-drugs/</guid>
       <description></description>
     </item>
     <item>
       <title>Synthetics</title>
-      <link>http://localhost:1313/tags/synthetics/</link>
+      <link>https://brainblendz.com/tags/synthetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/synthetics/</guid>
+      <guid>https://brainblendz.com/tags/synthetics/</guid>
       <description></description>
     </item>
     <item>
       <title>Wakefulness</title>
-      <link>http://localhost:1313/tags/wakefulness/</link>
+      <link>https://brainblendz.com/tags/wakefulness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wakefulness/</guid>
+      <guid>https://brainblendz.com/tags/wakefulness/</guid>
       <description></description>
     </item>
   </channel>

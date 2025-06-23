@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stacks on BrainBlendz</title>
-    <link>http://localhost:1313/tags/stacks/</link>
+    <link>https://brainblendz.com/tags/stacks/</link>
     <description>Recent content in Stacks on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 22:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/stacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inside the Lab: The Secret Science of Cognitive Stacks</title>
-      <link>http://localhost:1313/journal/inside-lab-cognitive-stacks/</link>
+      <link>https://brainblendz.com/journal/inside-lab-cognitive-stacks/</link>
       <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/inside-lab-cognitive-stacks/</guid>
+      <guid>https://brainblendz.com/journal/inside-lab-cognitive-stacks/</guid>
       <description>Discover the art and alchemy behind cognitive stacks — the ultimate brain-enhancing blends engineered for focus, flow, and mental domination.</description>
     </item>
   </channel>

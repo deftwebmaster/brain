@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cognition on BrainBlendz</title>
-    <link>http://localhost:1313/tags/cognition/</link>
+    <link>https://brainblendz.com/tags/cognition/</link>
     <description>Recent content in Cognition on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gotu Kola: The Circulatory Sage of Calm Clarity</title>
-      <link>http://localhost:1313/glossary/gotu-kola/</link>
+      <link>https://brainblendz.com/glossary/gotu-kola/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/glossary/gotu-kola/</guid>
+      <guid>https://brainblendz.com/glossary/gotu-kola/</guid>
       <description>A brain-tonic herb that boosts circulation, supports neurogenesis, and fosters calm alertness.</description>
     </item>
   </channel>

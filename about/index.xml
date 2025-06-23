@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>About BrainBlendz on BrainBlendz</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://brainblendz.com/about/</link>
     <description>Recent content in About BrainBlendz on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The BrainBlendz Manifesto</title>
-      <link>http://localhost:1313/about/philosophy/</link>
+      <link>https://brainblendz.com/about/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/philosophy/</guid>
+      <guid>https://brainblendz.com/about/philosophy/</guid>
       <description>Short, sharp principles from the lab bench — where nootropics meet neurorebellion.</description>
     </item>
     <item>
       <title>The Scientist</title>
-      <link>http://localhost:1313/about/the-scientist/</link>
+      <link>https://brainblendz.com/about/the-scientist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/the-scientist/</guid>
+      <guid>https://brainblendz.com/about/the-scientist/</guid>
       <description>Meet Synapzr — the cortex-cracking, molecule-meddling mind behind BrainBlendz.</description>
     </item>
   </channel>

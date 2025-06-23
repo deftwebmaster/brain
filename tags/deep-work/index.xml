@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Deep Work on BrainBlendz</title>
-    <link>http://localhost:1313/tags/deep-work/</link>
+    <link>https://brainblendz.com/tags/deep-work/</link>
     <description>Recent content in Deep Work on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 19:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/deep-work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/deep-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shadow Mode Activated: The Forgotten Art of Deep Work in a Loud World</title>
-      <link>http://localhost:1313/journal/shadow-mode-activated/</link>
+      <link>https://brainblendz.com/journal/shadow-mode-activated/</link>
       <pubDate>Sun, 22 Jun 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/shadow-mode-activated/</guid>
+      <guid>https://brainblendz.com/journal/shadow-mode-activated/</guid>
       <description>An irreverent, laser-focused manifesto on reclaiming your mental silence in an era of algorithmic noise — and the nootropic stack that fuels the descent.</description>
     </item>
   </channel>

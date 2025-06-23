@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nootropics on BrainBlendz</title>
-    <link>http://localhost:1313/tags/nootropics/</link>
+    <link>https://brainblendz.com/tags/nootropics/</link>
     <description>Recent content in Nootropics on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 22:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nootropics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/nootropics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L-Theanine: Calm Clarity in a Capsule</title>
-      <link>http://localhost:1313/glossary/l-theanine/</link>
+      <link>https://brainblendz.com/glossary/l-theanine/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/glossary/l-theanine/</guid>
+      <guid>https://brainblendz.com/glossary/l-theanine/</guid>
       <description>This green tea amino acid dials down stress while sharpening attention — the ultimate co-pilot for caffeine and deep work.</description>
     </item>
     <item>
       <title>Inside the Lab: The Secret Science of Cognitive Stacks</title>
-      <link>http://localhost:1313/journal/inside-lab-cognitive-stacks/</link>
+      <link>https://brainblendz.com/journal/inside-lab-cognitive-stacks/</link>
       <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/inside-lab-cognitive-stacks/</guid>
+      <guid>https://brainblendz.com/journal/inside-lab-cognitive-stacks/</guid>
       <description>Discover the art and alchemy behind cognitive stacks — the ultimate brain-enhancing blends engineered for focus, flow, and mental domination.</description>
     </item>
     <item>
       <title>Shadow Mode Activated: The Forgotten Art of Deep Work in a Loud World</title>
-      <link>http://localhost:1313/journal/shadow-mode-activated/</link>
+      <link>https://brainblendz.com/journal/shadow-mode-activated/</link>
       <pubDate>Sun, 22 Jun 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/shadow-mode-activated/</guid>
+      <guid>https://brainblendz.com/journal/shadow-mode-activated/</guid>
       <description>An irreverent, laser-focused manifesto on reclaiming your mental silence in an era of algorithmic noise — and the nootropic stack that fuels the descent.</description>
     </item>
     <item>
       <title>Ashwagandha Isn’t Just Vibes: The Real Reason It Belongs in Your Stack</title>
-      <link>http://localhost:1313/journal/ashwagandha-vibes/</link>
+      <link>https://brainblendz.com/journal/ashwagandha-vibes/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/ashwagandha-vibes/</guid>
+      <guid>https://brainblendz.com/journal/ashwagandha-vibes/</guid>
       <description>Ashwagandha isn’t just for zen influencers and sleepy tea blends — it’s a potent adaptogen with legit brain-boosting, stress-crushing benefits. Here’s why it earns a permanent place in your stack.</description>
     </item>
     <item>
       <title>Zero Mercy Mode: Inside the Stack That Doesn’t Flinch</title>
-      <link>http://localhost:1313/journal/zero-mercy-mode/</link>
+      <link>https://brainblendz.com/journal/zero-mercy-mode/</link>
       <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/zero-mercy-mode/</guid>
+      <guid>https://brainblendz.com/journal/zero-mercy-mode/</guid>
       <description>A no-BS breakdown of the most aggressive nootropic stack in the BrainBlendz lab — for when you need to go full mental juggernaut.</description>
     </item>
     <item>
       <title>The Dopamine See-Saw: Why Your Brain’s Reward System Is Wrecking Your Workflow</title>
-      <link>http://localhost:1313/journal/dopamine-see-saw/</link>
+      <link>https://brainblendz.com/journal/dopamine-see-saw/</link>
       <pubDate>Sun, 22 Jun 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/dopamine-see-saw/</guid>
+      <guid>https://brainblendz.com/journal/dopamine-see-saw/</guid>
       <description>Discover how dopamine dysregulation sabotages your focus, fuels burnout, and how to restore balance using smart strategies and nootropic stacks.</description>
     </item>
     <item>
       <title>How to Brew a Smarter Brain: The Science (and Sass) Behind Smart Stacks</title>
-      <link>http://localhost:1313/journal/how-to-brew-a-smarter-brain/</link>
+      <link>https://brainblendz.com/journal/how-to-brew-a-smarter-brain/</link>
       <pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/journal/how-to-brew-a-smarter-brain/</guid>
+      <guid>https://brainblendz.com/journal/how-to-brew-a-smarter-brain/</guid>
       <description>Unlock the secrets of smart nootropic stacks — what they are, how they work, and how to use them to upgrade your brain like a caffeine-fueled scientist.</description>
     </item>
     <item>
       <title>Alpha-GPC: The Memory Missile in Your Mental Arsenal</title>
-      <link>http://localhost:1313/glossary/alpha-gpc/</link>
+      <link>https://brainblendz.com/glossary/alpha-gpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/glossary/alpha-gpc/</guid>
+      <guid>https://brainblendz.com/glossary/alpha-gpc/</guid>
       <description>A fast-acting choline compound that fuels acetylcholine production and sharpens cognitive firepower — especially in high-stress ops.</description>
     </item>
   </channel>

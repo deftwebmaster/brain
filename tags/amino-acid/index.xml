@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Amino Acid on BrainBlendz</title>
-    <link>http://localhost:1313/tags/amino-acid/</link>
+    <link>https://brainblendz.com/tags/amino-acid/</link>
     <description>Recent content in Amino Acid on BrainBlendz</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/amino-acid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brainblendz.com/tags/amino-acid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L-Theanine: Calm Clarity in a Capsule</title>
-      <link>http://localhost:1313/glossary/l-theanine/</link>
+      <link>https://brainblendz.com/glossary/l-theanine/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/glossary/l-theanine/</guid>
+      <guid>https://brainblendz.com/glossary/l-theanine/</guid>
       <description>This green tea amino acid dials down stress while sharpening attention — the ultimate co-pilot for caffeine and deep work.</description>
     </item>
   </channel>
