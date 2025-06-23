@@ -52,8 +52,20 @@
 
 <section class="py-32 text-center bg-gradient-to-b from-zinc-900 to-zinc-950">
   <h2 class="text-5xl font-extrabold mb-4">BrainBlendz</h2>
-  <p class="text-gray-400 text-lg mb-8">Cognitive alchemy. Built for brains that don’t coast.</p>
-  <a href="/stacks/" class="bg-lime-400 text-black font-bold px-8 py-4 rounded shadow hover:bg-lime-300 transition">Browse Stacks</a>
+<p class="text-gray-400 text-lg mb-8">
+  Brain fuel for those who don’t coast. We build stacks that cut noise, forge clarity, and turn pressure into power.
+</p>
+
+<div class="flex flex-col sm:flex-row justify-center gap-4">
+  <a class="bg-lime-400 text-black font-bold px-8 py-4 rounded shadow hover:bg-lime-300 transition" title="Cognitive Stacks" href="/stacks/">
+    📦 Browse Stacks
+  </a>
+  <a class="bg-black border border-lime-400 text-lime-400 font-bold px-8 py-4 rounded shadow hover:bg-lime-400 hover:text-black transition" href="/synaptic-override/" title="Synaptic Override – Stack, Hack, Override" target="_blank">
+    🧠 Launch Override
+  </a>
+</div>
+
+
 </section>
 
 
@@ -151,6 +163,43 @@
 <footer class="py-10 text-center text-sm text-gray-500 border-t border-zinc-800">
   Formulated in the void between clarity and chaos. Sleep sacrificed. Brains enhanced. © BrainBlendz
 </footer>
+
+<script>
+  console.log(
+    "%c🧠 BrainBlendz Protocol Activated\nVisit /synaptic-override/ to override default cognition.",
+    "color: lime; font-weight: bold; font-size: 14px;"
+  );
+</script>
+
+<script>
+  const secretSequence = ['b', 'l', 'e', 'n', 'd', 'z'];
+  let currentIndex = 0;
+
+  document.addEventListener('keydown', (event) => {
+    const key = event.key.toLowerCase();
+    if (key === secretSequence[currentIndex]) {
+      currentIndex++;
+      if (currentIndex === secretSequence.length) {
+        triggerEasterEgg();
+        currentIndex = 0;
+      }
+    } else {
+      currentIndex = 0;
+    }
+  });
+
+  function triggerEasterEgg() {
+    const egg = document.createElement('div');
+    egg.innerHTML = `
+      <div id="blendz-egg" class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50">
+        <img src="/images/blendz-easter-egg.png" alt="BOOM!" class="max-w-sm rounded-lg shadow-lg">
+        <button class="absolute top-4 right-4 text-white text-2xl hover:text-lime-400" onclick="document.getElementById('blendz-egg').remove()">×</button>
+      </div>
+    `;
+    document.body.appendChild(egg);
+  }
+</script>
+
 
 </body>
 </html>

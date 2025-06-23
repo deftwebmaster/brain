@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Synaptic Override – Stack, Hack, Override | BrainBlendz</title>
+<meta name="description" content="Synaptic Override is your cognitive command console. Pick a brain mode. Deploy the stack. Lock in the strategy. Built for bold minds by BrainBlendz." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .pulse {
+      animation: pulse 1.5s ease-out;
+    }
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0px rgba(163, 230, 53, 0.4); }
+      50% { box-shadow: 0 0 30px rgba(163, 230, 53, 0.7); }
+      100% { box-shadow: 0 0 0px rgba(163, 230, 53, 0.4); }
+    }
+  </style>
+</head>
+<body class="bg-zinc-950 text-white min-h-screen flex items-center justify-center p-6">
+  <div class="max-w-2xl w-full text-center">
+    <h1 class="text-4xl font-bold mb-6 text-lime-400">Synaptic Override</h1>
+    <p class="mb-8 text-gray-400">Pick your desired brain mode. We'll override your system with a matching stack and strategy.</p>
+
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-6">
+      <button class="mode-btn px-4 py-3 bg-zinc-800 rounded hover:bg-lime-500 hover:text-black" data-mode="Focus Mode">🧠 Focus Mode</button>
+      <button class="mode-btn px-4 py-3 bg-zinc-800 rounded hover:bg-lime-500 hover:text-black" data-mode="Creative Storm">🌩️ Creative Storm</button>
+      <button class="mode-btn px-4 py-3 bg-zinc-800 rounded hover:bg-lime-500 hover:text-black" data-mode="Beast Mode">💀 Beast Mode</button>
+      <button class="mode-btn px-4 py-3 bg-zinc-800 rounded hover:bg-lime-500 hover:text-black" data-mode="Dream Mode">🌙 Dream Mode</button>
+      <button class="mode-btn px-4 py-3 bg-zinc-800 rounded hover:bg-lime-500 hover:text-black" data-mode="Recovery Mode">🛠 Recovery Mode</button>
+      <button class="mode-btn px-4 py-3 bg-zinc-800 rounded hover:bg-lime-500 hover:text-black" data-mode="Stealth Mode">🧊 Stealth Mode</button>
+    </div>
+
+    <div id="output" class="mt-8 text-left bg-zinc-900 p-6 rounded-lg hidden"></div>
+
+<div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
+  <a href="/journal/" class="inline-block bg-lime-400 text-black font-semibold px-6 py-3 rounded hover:bg-cyan-400 transition">
+    📓 Visit the Field Journal
+  </a>
+  <a href="/stacks/" class="inline-block bg-lime-400 text-black font-semibold px-6 py-3 rounded hover:bg-cyan-400 transition">
+    🧪 Browse the Stacks
+  </a>
+</div>
+
+
+  </div>
+
+<script>
+  const stacks = {
+    "Focus Mode": {
+      stack: [
+        "L-Theanine",
+        "Lion’s Mane",
+        "Bacopa Monnieri",
+        "Magnesium Glycinate"
+      ],
+      strategy: "Use this stack for coding, writing, and getting deep into the zone — calm but locked in."
+    },
+    "Creative Storm": {
+      stack: [
+        "Rhodiola Rosea",
+        "Alpha-GPC",
+        "Caffeine (green tea)",
+        "Acetyl-L-Carnitine (ALCAR)"
+      ],
+      strategy: "Fire up rapid-fire neural linking during brainstorms and idea jams. Embrace the chaos — and keep a notebook nearby."
+    },
+    "Beast Mode": {
+      stack: [
+        "Caffeine Anhydrous",
+        "L-Theanine",
+        "CDP-Choline",
+        "Creatine",
+        "Ginkgo Biloba"
+      ],
+      strategy: "Relentless clarity for high-pressure execution. No distractions. No excuses. Just ship."
+    },
+    "Dream Mode": {
+      stack: ["Magnesium Glycinate", "L-Theanine", "Apigenin"],
+      strategy: "Let go with intention — fiction over feeds. Restore, consolidate, and repair while you drift."
+    },
+    "Recovery Mode": {
+      stack: ["Ashwagandha", "Omega-3", "Rhodiola Rosea", "Magnesium Glycinate"],
+      strategy: "Rebuild resilience, calm inflammation, stabilize the signal. Walk, hydrate, and reset your burnout protocols."
+    },
+    "Stealth Mode": {
+      stack: ["L-Theanine", "Ashwagandha", "Ginkgo Biloba"],
+      strategy: "Stay sharp under the radar. Keeps you calm, focused, and socially fluid — ideal for meetings, interviews, or high-pressure calm."
+    }
+  };
+
+  document.querySelectorAll('.mode-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const mode = btn.dataset.mode;
+      const { stack, strategy } = stacks[mode];
+      const output = document.getElementById('output');
+      output.classList.remove('hidden');
+      output.classList.add('pulse');
+      output.innerHTML = `
+        <h2 class="text-2xl font-bold mb-2 text-lime-400">${mode} Activated</h2>
+        <p class="mb-4"><strong>🧪 Stack:</strong> ${stack.join(', ')}</p>
+        <p class="text-gray-300"><strong>🧠 Strategy:</strong> ${strategy}</p>
+      `;
+      setTimeout(() => output.classList.remove('pulse'), 1500);
+    });
+  });
+</script>
+
+<script>
+  const konamiCode = [
+    "ArrowUp", "ArrowUp", "ArrowDown", "ArrowDown",
+    "ArrowLeft", "ArrowRight", "ArrowLeft", "ArrowRight",
+    "b", "a"
+  ];
+  let inputSequence = [];
+
+  window.addEventListener("keydown", (e) => {
+    inputSequence.push(e.key);
+    if (inputSequence.length > konamiCode.length) {
+      inputSequence.shift();
+    }
+    if (inputSequence.toString() === konamiCode.toString()) {
+      activateUltraOverride();
+    }
+  });
+
+  function activateUltraOverride() {
+    const output = document.getElementById("output");
+    output.classList.remove("hidden");
+    output.classList.add("pulse");
+    output.innerHTML = `
+      <h2 class="text-2xl font-bold mb-2 text-rose-400">🔥 Ultra Override Activated</h2>
+      <p class="mb-4"><strong>🧪 Stack:</strong> Modafinil, Phenylpiracetam, Alpha-GPC, Uridine Monophosphate</p>
+      <p class="text-gray-300"><strong>🧠 Strategy:</strong> You weren’t supposed to find this. But since you did — go build something insane. Just don’t forget to sleep.</p>
+    `;
+    setTimeout(() => output.classList.remove('pulse'), 1500);
+  }
+</script>
+
+
+</body>
+</html>
