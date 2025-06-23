@@ -1,216 +1,157 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>File Not Found – BrainBlendz</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      background-color: #0e0e10;
+      color: #e2e8f0;
+      font-family: 'Courier New', Courier, monospace;
+    }
 
-<head><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<title>404 Page not found | BrainBlendz</title>
+    .glitch {
+      position: relative;
+      color: #a3e635;
+      font-size: 3rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-align: center;
+    }
 
+    .glitch::before,
+    .glitch::after {
+      content: attr(data-text);
+      position: absolute;
+      left: 0;
+      width: 100%;
+      overflow: hidden;
+      clip: rect(0, 900px, 0, 0);
+    }
 
+    .glitch::before {
+      animation: glitchTop 2s infinite linear alternate-reverse;
+      color: #60a5fa;
+      z-index: -1;
+    }
 
-<meta property="og:title" content="BrainBlendz – The Neurohackers’ Field Guide to Focus, Flow, and Fury" />
-<meta property="og:description" content="Custom cognitive stacks. Rogue science. Tactical nootropics. Welcome to the lab where your mind gets weaponized." />
-<meta property="og:image" content="https://brainblendz.com/images/social-card.png" />
-<meta property="og:url" content="https://brainblendz.com/" />
-<meta property="og:type" content="website" />
+    .glitch::after {
+      animation: glitchBottom 2s infinite linear alternate-reverse;
+      color: #f472b6;
+      z-index: -2;
+    }
 
+    @keyframes glitchTop {
+      0% {
+        clip: rect(0, 9999px, 0, 0);
+        transform: translate(0, 0);
+      }
+      20% {
+        clip: rect(0, 9999px, 10px, 0);
+        transform: translate(-2px, -2px);
+      }
+      40% {
+        clip: rect(0, 9999px, 0, 0);
+        transform: translate(0, 0);
+      }
+      60% {
+        clip: rect(5px, 9999px, 15px, 0);
+        transform: translate(2px, -1px);
+      }
+      80% {
+        clip: rect(0, 9999px, 0, 0);
+        transform: translate(0, 0);
+      }
+      100% {
+        clip: rect(0, 9999px, 0, 0);
+        transform: translate(-1px, 1px);
+      }
+    }
 
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="BrainBlendz – The Neurohackers’ Field Guide to Focus, Flow, and Fury" />
-<meta name="twitter:description" content="Custom cognitive stacks. Rogue science. Tactical nootropics. Welcome to the lab where your mind gets weaponized." />
-<meta name="twitter:image" content="https://brainblendz.com/images/social-card.png" />
-
-
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-
-
-<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png">
-<link rel="icon" type="image/png" sizes="512x512" href="/favicon-512x512.png">
-
-
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-
-<link rel="manifest" href="/site.webmanifest">
-
-
-<meta name="theme-color" content="#0de36b">
-<meta name="keywords" content="">
-<meta name="description" content="The Cognitive Codex of BrainBlendz">
-<meta name="author" content="Synapzr">
-<link rel="canonical" href="https://brainblendz.com/404.html">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.d5dea86f5405f691c92f9d39a21bd24f020333c610a939b7c707860df60537a0.css" integrity="sha256-1d6ob1QF9pHJL505ohvSTwIDM8YQqTm3xweGDfYFN6A=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://brainblendz.com/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://brainblendz.com/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://brainblendz.com/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://brainblendz.com/apple-touch-icon.png">
-<link rel="mask-icon" href="https://brainblendz.com/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="https://brainblendz.com/404.html">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
-
-    </style>
-</noscript><meta property="og:url" content="https://brainblendz.com/404.html">
-  <meta property="og:site_name" content="BrainBlendz">
-  <meta property="og:title" content="404 Page not found">
-  <meta property="og:description" content="The Cognitive Codex of BrainBlendz">
-  <meta property="og:locale" content="en-us">
-  <meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="404 Page not found">
-<meta name="twitter:description" content="The Cognitive Codex of BrainBlendz">
-
+    @keyframes glitchBottom {
+      0% {
+        clip: rect(0, 9999px, 0, 0);
+        transform: translate(0, 0);
+      }
+      20% {
+        clip: rect(5px, 9999px, 15px, 0);
+        transform: translate(1px, 1px);
+      }
+      40% {
+        clip: rect(0, 9999px, 0, 0);
+        transform: translate(0, 0);
+      }
+      60% {
+        clip: rect(0, 9999px, 10px, 0);
+        transform: translate(-1px, 2px);
+      }
+      80% {
+        clip: rect(0, 9999px, 0, 0);
+        transform: translate(0, 0);
+      }
+      100% {
+        clip: rect(3px, 9999px, 13px, 0);
+        transform: translate(1px, -1px);
+      }
+    }
+  </style>
 </head>
+<body class="flex flex-col justify-center items-center min-h-screen p-6 text-center">
 
-<body class="list dark" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    }
-
-</script>
-
-<header class="header">
-    <nav class="nav">
-
-
-<div class="logo">
-  <a href="https://brainblendz.com/journal/" accesskey="h" title="BrainBlendz: The Neurohackers’ Field Guide to Focus, Flow, and Fury." style="display: inline-block;">
-    <img src="/images/brainblendz-logo.png" alt="BrainBlendz: The Neurohackers’ Field Guide to Focus, Flow, and Fury." style="height: 120px;" />
+  
+  <a href="/journal/" class="mb-8 block">
+    <img src="/images/brainblendz-logo.png" alt="BrainBlendz logo" class="mx-auto max-w-xs" />
   </a>
 
-  <div class="logo-switches">
-    <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-      <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-      </svg>
-      <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="12" cy="12" r="5"></circle>
-        <line x1="12" y1="1" x2="12" y2="3"></line>
-        <line x1="12" y1="21" x2="12" y2="23"></line>
-        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-        <line x1="1" y1="12" x2="3" y2="12"></line>
-        <line x1="21" y1="12" x2="23" y2="12"></line>
-        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-      </svg>
-    </button>
-  </div>
-</div>
-        <ul id="menu">
-            <li>
-                <a href="https://brainblendz.com/journal/" title="Journal">
-                    <span>Journal</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://brainblendz.com/about/" title="About">
-                    <span>About</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://brainblendz.com/stacks/" title="Stacks">
-                    <span>Stacks</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://brainblendz.com/glossary/" title="Glossary">
-                    <span>Glossary</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</header>
-<main class="main">
-<div class="not-found">404</div>
-    </main>
-    
-<footer class="footer">
-        <span>&copy; 2025 <a title="The Neurohackers’ Field Guide to Focus, Flow, and Fury | BrainBlendz" href="https://brainblendz.com/">BrainBlendz Lab</a></span> · 
+  
+  <h1 class="glitch mb-4" data-text="404: Brain Not Found">404: Brain Not Found</h1>
+  <p class="text-gray-400 text-lg max-w-xl">The page you’re seeking slipped through the synaptic cracks.  
+  You might find answers in <a href="/journal/" class="text-lime-400 underline hover:text-blue-400">the field journal</a>.</p>
 
-<span>
-   <a href="/privacy/" title="Privacy Policy">Privacy</a> · Brewed in unstable conditions by overcaffeinated scientists ☕🧪
-</span>
-
-
-    <div class="my-6">
-  <a href="https://www.buymeacoffee.com/deftdev" target="_blank" rel="noopener noreferrer" class="inline-block bg-yellow-400 text-black font-semibold px-4 py-2 rounded shadow hover:bg-yellow-300 transition">
-    ☕ Keep the Beakers Bubbling
-  </a>
-</div>
-
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
+<div id="stack-suggestion" class="text-sm text-gray-500 mt-8 opacity-0 transition-opacity duration-1000"></div>
 
 <script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
+  const stackSuggestions = [
+    {
+      name: "Focus Mode",
+      stack: ["L-Theanine", "Lion’s Mane", "Bacopa Monnieri", "Magnesium Glycinate"],
+      strategy: "Calm but locked in. Ideal for deep work like coding and writing."
+    },
+    {
+      name: "Creative Storm",
+      stack: ["Rhodiola Rosea", "Alpha-GPC", "Caffeine (green tea)", "ALCAR"],
+      strategy: "Embrace the chaos. Jam ideas. Keep a notebook handy."
+    },
+    {
+      name: "Dream Mode",
+      stack: ["Magnesium Glycinate", "L-Theanine", "Apigenin"],
+      strategy: "Wind down consciously. Let fiction, not feeds, guide your descent."
+    },
+    {
+      name: "Recovery Mode",
+      stack: ["Ashwagandha", "Omega-3", "Rhodiola Rosea", "Magnesium Glycinate"],
+      strategy: "Rebuild resilience. Walk, hydrate, and restore your neural edge."
+    },
+    {
+      name: "Stealth Mode",
+      stack: ["L-Theanine", "Ashwagandha", "Ginkgo Biloba"],
+      strategy: "Blend in. Stay sharp. Ideal for meetings, interviews, and social finesse."
     }
+  ];
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
+  setTimeout(() => {
+    const s = stackSuggestions[Math.floor(Math.random() * stackSuggestions.length)];
+    const div = document.getElementById("stack-suggestion");
+    div.innerHTML = `
+      <p>🧪 Try this instead: <strong>${s.name}</strong> — ${s.stack.join(", ")}</p>
+      <p class="italic mt-1">Strategy: ${s.strategy}</p>
+    `;
+    div.classList.remove("opacity-0");
+  }, 2000); 
 </script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
 
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
-</script>
 </body>
-
 </html>
