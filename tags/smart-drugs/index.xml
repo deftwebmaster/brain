@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Smart Drugs on BrainBlendz</title>
+    <link>http://localhost:1313/tags/smart-drugs/</link>
+    <description>Recent content in Smart Drugs on BrainBlendz</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/smart-drugs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modafinil: The Limitless Wakefulness Weapon</title>
+      <link>http://localhost:1313/glossary/modafinil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/modafinil/</guid>
+      <description>Modafinil is a eugeroic (wakefulness-promoting agent) often hailed as the real-life &amp;#39;Limitless pill.&amp;#39; It boosts focus, alertness, and resistance to fatigue without the jittery side effects of stimulants. While not technically a nootropic, its ability to sharpen cognition and stretch mental stamina makes it a favorite among high-performers.</description>
+    </item>
+  </channel>
+</rss>

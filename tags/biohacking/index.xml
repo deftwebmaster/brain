@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Biohacking on BrainBlendz</title>
+    <link>http://localhost:1313/tags/biohacking/</link>
+    <description>Recent content in Biohacking on BrainBlendz</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2025 22:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/biohacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inside the Lab: The Secret Science of Cognitive Stacks</title>
+      <link>http://localhost:1313/journal/inside-lab-cognitive-stacks/</link>
+      <pubDate>Sun, 22 Jun 2025 22:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/inside-lab-cognitive-stacks/</guid>
+      <description>Discover the art and alchemy behind cognitive stacks — the ultimate brain-enhancing blends engineered for focus, flow, and mental domination.</description>
+    </item>
+    <item>
+      <title>Ashwagandha Isn’t Just Vibes: The Real Reason It Belongs in Your Stack</title>
+      <link>http://localhost:1313/journal/ashwagandha-vibes/</link>
+      <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/ashwagandha-vibes/</guid>
+      <description>Ashwagandha isn’t just for zen influencers and sleepy tea blends — it’s a potent adaptogen with legit brain-boosting, stress-crushing benefits. Here’s why it earns a permanent place in your stack.</description>
+    </item>
+    <item>
+      <title>Zero Mercy Mode: Inside the Stack That Doesn’t Flinch</title>
+      <link>http://localhost:1313/journal/zero-mercy-mode/</link>
+      <pubDate>Sun, 22 Jun 2025 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/zero-mercy-mode/</guid>
+      <description>A no-BS breakdown of the most aggressive nootropic stack in the BrainBlendz lab — for when you need to go full mental juggernaut.</description>
+    </item>
+    <item>
+      <title>How to Brew a Smarter Brain: The Science (and Sass) Behind Smart Stacks</title>
+      <link>http://localhost:1313/journal/how-to-brew-a-smarter-brain/</link>
+      <pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal/how-to-brew-a-smarter-brain/</guid>
+      <description>Unlock the secrets of smart nootropic stacks — what they are, how they work, and how to use them to upgrade your brain like a caffeine-fueled scientist.</description>
+    </item>
+  </channel>
+</rss>

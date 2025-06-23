@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brain Repair on BrainBlendz</title>
+    <link>http://localhost:1313/tags/brain-repair/</link>
+    <description>Recent content in Brain Repair on BrainBlendz</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/brain-repair/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lion’s Mane Mushroom: The Neurogenesis Shroom</title>
+      <link>http://localhost:1313/glossary/lions-mane/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/glossary/lions-mane/</guid>
+      <description>A brain-boosting mushroom that stimulates nerve growth factor (NGF) and supports long-term cognitive resilience.</description>
+    </item>
+  </channel>
+</rss>
